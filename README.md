@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohammadabdulmuheeb
-- 👀 I’m interested in .Java Fullstack 
+- 👀 I’m interested in .Java front End 
 - 🌱 I’m currently learning ...HTML,JS,NodeJs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
